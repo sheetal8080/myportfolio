@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sheetal8080.github.io/myportfolio",
+  "homepage": "https://sheetal8080.github.io/myportfolio/",
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
@@ -8,8 +8,8 @@
     "start": "parcel",
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
-    "predeploy": "npm run build-gh",
-    "deploy": "gh-pages -d dist"
+  "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
