@@ -28642,7 +28642,7 @@ const Home = ({ name , title  })=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 style: {
                     position: "absolute",
-                    top: "15rem",
+                    top: "35rem",
                     left: "2rem",
                     width: "17rem"
                 },
