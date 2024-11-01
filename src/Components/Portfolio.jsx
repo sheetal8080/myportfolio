@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Blog-Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A user-friendly blog website with seamless login and registration, allowing users to create and share posts effortlessly. It includes an engaging About section, an interactive Contact page, and easy navigation for exploring posts.",
+    url: "https://blog-with-sheetal.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather-App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A weather app that provides real-time updates on temperature, humidity, and conditions for cities worldwide through a simple search.",
+    url: "https://react-weather-app-sheetal.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Algo-Visualizer",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Algo-Visualizer is an interactive tool for visualizing algorithms, making it easier to understand their step-by-step processes through animations.",
+    url: "https://algorithm-visualizer-sheetal.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Notes App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A simple and intuitive notes app designed to help you organize your thoughts, tasks, and ideas with ease. Featuring a user-friendly interface and quick access to your notes anytime, anywhere.",
+    url: "https://react-notes-app-sheetal.vercel.app/",
   },
 ];
 
